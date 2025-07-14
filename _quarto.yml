@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Kyle Gontjes"
@@ -24,5 +25,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
-
+editor: visual 
