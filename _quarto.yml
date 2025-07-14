@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kyle Gontjes"
+  navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: twitter
+        href: https://x.com/KyleGontjes
+      - icon: github
+        href: https://github.com/kylegontjes
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual 
