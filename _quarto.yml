@@ -17,6 +17,8 @@ website:
         text: Home
       - about.qmd
       - research.qmd
+      - software.qmd
+      - contact.qmd
 
 format:
   html:
