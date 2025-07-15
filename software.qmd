@@ -2,40 +2,42 @@
 title: "Software"
 ---
 
-# GeneScreener
+**The following tools have been developed to facilitate my research. For more information, see my GitHub: ​<https://github.com/kylegontjes>**
+
+## GeneScreener
 
 Snakemake to make running blast on many genomes a bit easier
 
 <https://github.com/kylegontjes/GeneScreener>
 
-# ISScreener
+## ISScreener
 
 Runs insertion sequence detection workflow on Illumina WGS data
 
 <https://github.com/kylegontjes/ISScreener>
 
-# **CoverageStats**
+## **CoverageStats**
 
 Calculate coverage statistics after mapping short-read sequenced isolates to a reference sequence
 
 <https://github.com/kylegontjes/CoverageStats>
 
-# PhyloAMR
+## 
 
-Toolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits
-
-[https://github.com/kylegontjes/phyloAMR](https://github.com/kylegontjes/phyloAMR/tree/master)
-
-# Phylokit
+## Phylokit
 
 Snakemake pipeline to generate a phylogenetic tree from an alignment
 
 <https://github.com/Snitkin-Lab-Umich/phylokit>
 
-# Fastools
+## Fastools
 
 A collection of a few miscellaneous scripts for processing fasta files
 
 <https://github.com/kylegontjes?tab=repositories>
 
-# 
+## PhyloAMR
+
+R package with toolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits
+
+[https://github.com/kylegontjes/phyloAMR](https://github.com/kylegontjes/phyloAMR/tree/master)

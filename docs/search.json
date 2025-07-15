@@ -4,7 +4,49 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "GeneScreener\nSnakemake to make running blast on many genomes a bit easier\nhttps://github.com/kylegontjes/GeneScreener\n\n\nISScreener\nRuns insertion sequence detection workflow on Illumina WGS data\nhttps://github.com/kylegontjes/ISScreener\n\n\nCoverageStats\nCalculate coverage statistics after mapping short-read sequenced isolates to a reference sequence\nhttps://github.com/kylegontjes/CoverageStats\n\n\nPhyloAMR\nToolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits\nhttps://github.com/kylegontjes/phyloAMR\n\n\nPhylokit\nSnakemake pipeline to generate a phylogenetic tree from an alignment\nhttps://github.com/Snitkin-Lab-Umich/phylokit\n\n\nFastools\nA collection of a few miscellaneous scripts for processing fasta files\nhttps://github.com/kylegontjes?tab=repositories"
+    "text": "The following tools have been developed to facilitate my research. For more information, see my GitHub: ​https://github.com/kylegontjes"
+  },
+  {
+    "objectID": "software.html#genescreener",
+    "href": "software.html#genescreener",
+    "title": "Software",
+    "section": "GeneScreener",
+    "text": "GeneScreener\nSnakemake to make running blast on many genomes a bit easier\nhttps://github.com/kylegontjes/GeneScreener"
+  },
+  {
+    "objectID": "software.html#isscreener",
+    "href": "software.html#isscreener",
+    "title": "Software",
+    "section": "ISScreener",
+    "text": "ISScreener\nRuns insertion sequence detection workflow on Illumina WGS data\nhttps://github.com/kylegontjes/ISScreener"
+  },
+  {
+    "objectID": "software.html#coveragestats",
+    "href": "software.html#coveragestats",
+    "title": "Software",
+    "section": "CoverageStats",
+    "text": "CoverageStats\nCalculate coverage statistics after mapping short-read sequenced isolates to a reference sequence\nhttps://github.com/kylegontjes/CoverageStats"
+  },
+  {
+    "objectID": "software.html#phylokit",
+    "href": "software.html#phylokit",
+    "title": "Software",
+    "section": "Phylokit",
+    "text": "Phylokit\nSnakemake pipeline to generate a phylogenetic tree from an alignment\nhttps://github.com/Snitkin-Lab-Umich/phylokit"
+  },
+  {
+    "objectID": "software.html#fastools",
+    "href": "software.html#fastools",
+    "title": "Software",
+    "section": "Fastools",
+    "text": "Fastools\nA collection of a few miscellaneous scripts for processing fasta files\nhttps://github.com/kylegontjes?tab=repositories"
+  },
+  {
+    "objectID": "software.html#phyloamr",
+    "href": "software.html#phyloamr",
+    "title": "Software",
+    "section": "PhyloAMR",
+    "text": "PhyloAMR\nR package with toolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits\nhttps://github.com/kylegontjes/phyloAMR"
   },
   {
     "objectID": "index.html",
@@ -14,25 +56,11 @@
     "text": "Welcome\n\n\n\n\nMy name is Kyle Gontjes, a 5th year PhD Candidate in Microbiology & Immunology at the University of Michigan.\nMy research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households."
   },
   {
-    "objectID": "research.html#microbial-transmission",
-    "href": "research.html#microbial-transmission",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "Research",
-    "section": "Microbial transmission",
-    "text": "Microbial transmission"
-  },
-  {
-    "objectID": "research.html#improving-surveillance-strategies-in-nursing-homes",
-    "href": "research.html#improving-surveillance-strategies-in-nursing-homes",
-    "title": "Research",
-    "section": "Improving surveillance strategies in nursing homes",
-    "text": "Improving surveillance strategies in nursing homes"
-  },
-  {
-    "objectID": "research.html#resistance-in-long-term-acute-care-hospitals",
-    "href": "research.html#resistance-in-long-term-acute-care-hospitals",
-    "title": "Research",
-    "section": "Resistance in long-term acute care hospitals",
-    "text": "Resistance in long-term acute care hospitals"
+    "section": "",
+    "text": "My research focuses on the intersection of public health, clinical microbiology, bioinformatics, and infectious disease medicine.\nFor a full list of my publications, please visit my Google Scholar profile.\n\nMicrobial evolution\nPhylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread\nLink: https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1\nKlebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential\n​\nLink: https://journals.asm.org/doi/full/10.1128/mbio.02362-24\n\n\nMicrobial transmission\nContamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms \n\nLink: https://pubmed.ncbi.nlm.nih.gov/31851386/\n\n\nMolecular epidemiology and surveillance\nAssessment of Race and Sex as Risk Factors for Colonization with Multidrug-resistant Organisms in Six Nursing Homes\nLink: https://pubmed.ncbi.nlm.nih.gov/32493534/\nCan alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes?\nLink: https://doi.org/10.1017/ice.2021.134\n\n\nAntibiotic resistance\nCharacterization of resistance to newer antibiotics among carbapenem-resistant Klebsiella pneumoniae in the post-acute care setting\nLink: https://doi.org/10.1017/ice.2022.185\n\n\nAntibiotic stewardship\nAssociation of Exposure to High-risk Antibiotics in Acute Care Hospitals With Multidrug-Resistant Organism Burden in Nursing Homes\nLink: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788560\n\n\nPublic Health\nHealth education after COVID-19: A time to revisit, revamp, and revitalize?\nLink: https://www.ajicjournal.org/article/S0196-6553(22)00817-3/fulltext\nFrom a culture of blame to a culture of grace: A letter in reply to Papadakis\nLink: ​https://pubmed.ncbi.nlm.nih.gov/34446119/"
   },
   {
     "objectID": "contact.html",

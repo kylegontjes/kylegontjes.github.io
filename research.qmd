@@ -2,10 +2,49 @@
 title: "Research"
 ---
 
-## Microbial evolution
+My research focuses on the intersection of public health, clinical microbiology, bioinformatics, and infectious disease medicine.
 
-## **Microbial transmission**
+For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hG4WnBEAAAAJ&hl=en).
 
-## **Improving surveillance strategies in nursing homes**
+# Microbial evolution
 
-## **Resistance in long-term acute care hospitals**
+**Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread**
+
+Link: <https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1>
+
+***Klebsiella pneumoniae*** **evolution in the gut leads to spontaneous capsule loss and decreased virulence potential\
+​** \
+Link: <https://journals.asm.org/doi/full/10.1128/mbio.02362-24>
+
+# **Microbial transmission**
+
+**Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms**  \
+\
+Link: [https://pubmed.ncbi.nlm.nih.gov/31851386/](#0)
+
+# **Molecular epidemiology and surveillance**
+
+**Assessment of Race and Sex as Risk Factors for Colonization with Multidrug-resistant Organisms in Six Nursing Homes**\
+Link: [https://pubmed.ncbi.nlm.nih.gov/32493534/](#0)
+
+**Can alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes?**\
+Link: <https://doi.org/10.1017/ice.2021.134>
+
+# **Antibiotic resistance**
+
+**Characterization of resistance to newer antibiotics among carbapenem-resistant *Klebsiella pneumoniae* in the post-acute care setting** \
+Link: [https://doi.org/10.1017/ice.2022.185](#0)
+
+# Antibiotic stewardship
+
+**Association of Exposure to High-risk Antibiotics in Acute Care Hospitals With Multidrug-Resistant Organism Burden in Nursing Homes**\
+Link: <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788560>
+
+# Public Health
+
+**Health education after COVID-19: A time to revisit, revamp, and revitalize?**\
+Link: <https://www.ajicjournal.org/article/S0196-6553(22)00817-3/fulltext>
+
+**From a culture of blame to a culture of grace: A letter in reply to Papadakis**
+
+Link: ​[https://pubmed.ncbi.nlm.nih.gov/34446119/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)
