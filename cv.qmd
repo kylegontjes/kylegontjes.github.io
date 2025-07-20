@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+<iframe src="files/Gontjes_Kyle_CV_071825.pdf" width="100%" height="1100px" style="border: none;">
+</iframe>
+
+<p style="margin-top: 1rem;">
+  <a href="files/Gontjes_Kyle_CV_071825.pdf" download>⬇ Download a copy of my CV (PDF)</a>
+</p>

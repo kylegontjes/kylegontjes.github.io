@@ -2,7 +2,9 @@
 title: "Software"
 ---
 
-**The following tools have been developed to facilitate my research. For more information, see my GitHub: ​<https://github.com/kylegontjes>**
+The following tools have been developed to facilitate my research.
+
+For more information, see my GitHub: **​<https://github.com/kylegontjes>**
 
 ## GeneScreener
 
@@ -21,8 +23,6 @@ Runs insertion sequence detection workflow on Illumina WGS data
 Calculate coverage statistics after mapping short-read sequenced isolates to a reference sequence
 
 <https://github.com/kylegontjes/CoverageStats>
-
-## 
 
 ## Phylokit
 

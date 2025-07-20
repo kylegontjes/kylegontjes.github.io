@@ -1,8 +1,6 @@
 ---
-title: "Kyle Gontjes"
+title: "Welcome!"
 ---
-
-# Welcome
 
 ::::: columns
 ::: {.column width="40%"}
@@ -10,7 +8,6 @@ title: "Kyle Gontjes"
 :::
 
 ::: {.column width="60%"}
-
 My name is Kyle Gontjes, a 5th year PhD Candidate in Microbiology & Immunology at the University of Michigan.
 
 My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households.

@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My translation research flows through the following themes: microbial evolution and microbial epidemiology.
+My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria in complex patient populations, including long-term acute care hospitals and households.
 
 For the complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hG4WnBEAAAAJ&hl=en).
 
@@ -33,11 +33,10 @@ Link: <https://doi.org/10.1017/ice.2021.134>
 **Characterization of resistance to newer antibiotics among carbapenem-resistant *Klebsiella pneumoniae* in the post-acute care setting**\
 Link: [https://doi.org/10.1017/ice.2022.185](#0)
 
-# Miscellaneous research 
+# Cultural commentaries
 
 **Health education after COVID-19: A time to revisit, revamp, and revitalize?**\
 Link: <https://www.ajicjournal.org/article/S0196-6553(22)00817-3/fulltext>
 
-**From a culture of blame to a culture of grace: A letter in reply to Papadakis**
-
-Link: ​[https://pubmed.ncbi.nlm.nih.gov/34446119/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)
+**From a culture of blame to a culture of grace: A letter in reply to Papadakis\
+**Link: ​[https://pubmed.ncbi.nlm.nih.gov/34446119/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)
