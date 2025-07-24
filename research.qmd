@@ -2,41 +2,37 @@
 title: "Research"
 ---
 
-My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria in complex patient populations, including long-term acute care hospitals and households.
+My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria.
 
 For the complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hG4WnBEAAAAJ&hl=en).
 
 # **Microbial evolution**
 
-**Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread**
+I leverage whole-genome sequencing data, phylogenetics, and epidemiological methods to evaluate the evolution of bacterial pathogens. Primarily focusing on the evolution of antibiotic resistance, I am also interested in the genomic drivers of bacterial infections.
 
-Link: <https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1>
+1.  **Gontjes K**, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. *medRxiv.* [link](https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1)
+2.  Unverdorben LV, Pirani A, **Gontjes K**, Moricz B, Holmes CH, Snitkin ES, Bachman MA. Klebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential. *mBio*, March 2025. [link](https://doi.org/10.1128/mbio.02362-24)
 
-***Klebsiella pneumoniae*** **evolution in the gut leads to spontaneous capsule loss and decreased virulence potential\
-​**\
-Link: <https://journals.asm.org/doi/full/10.1128/mbio.02362-24>
+# Microbial genomic epidemiology
 
-# Microbial epidemiology
+I leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms. Alongside descriptive analyses, I develop novel research methodologies and translational infection prevention research.
 
-**Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms** \
-Link: [https://pubmed.ncbi.nlm.nih.gov/31851386/](#0)
+1.  Lapp Z, … **Gontjes K**, …, Evan Snitkin, Rachel B Slayton. Distinct Origins and Transmission Pathways of blaKPC Enterobacterales across Three U.S. States. *J Clin Microbiol*. August 2023. [link](https://doi.org/10.1128/jcm.00259-23)
+2.  Zhang HL, **Gontjes K,** Han JH, Alby K, Lapp Z, Snitkin S, Goldstein EJC, Muldoon S, Tolomeo P, Lautenbach E. Resistance phenotypes of carbapenem-resistant Klebsiella pneumoniae in a multi-state network of long-term acute care hospitals. *Infect Control Hosp Epidemiol*. June 2022. [link](https://doi.org/10.1017/ice.2022.185)
 
-**Assessment of Race and Sex as Risk Factors for Colonization with Multidrug-resistant Organisms in Six Nursing Homes**\
-Link: [https://pubmed.ncbi.nlm.nih.gov/32493534/](#0)
+# Translational infection prevention research
 
-**Association of Exposure to High-risk Antibiotics in Acute Care Hospitals With Multidrug-Resistant Organism Burden in Nursing Homes**\
-Link: <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788560>
+Alongside my research on the genomic epidemiology of antibiotic-resistance organisms, I have also conducted translational infection prevention research on the epidemiology of colonization with pathogenic bacteria.
 
-**Can alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes?**\
-Link: <https://doi.org/10.1017/ice.2021.134>
-
-**Characterization of resistance to newer antibiotics among carbapenem-resistant *Klebsiella pneumoniae* in the post-acute care setting**\
-Link: [https://doi.org/10.1017/ice.2022.185](#0)
+1.  **Gontjes K**, Gibson KE, Lansing B, Karen J, Cassone M, Wang J, Mills J, Mody L, Patel K. Association of exposure to high-risk antibiotics in acute care hospitals with multidrug-resistant organism burden in nursing homes. *JAMA Network Open*, February 2022. [link](https://doi.org/10.1001/jamanetworkopen.2021.44959)
+2.  Mody L, **Gontjes K,** Cassone M, Gibson KE, Lansing B, Mantey J, Kabeto M, Galecki A, Min L. Effectiveness of a Multicomponent Intervention to Reduce Multidrug-Resistant Organisms in Nursing Homes: A Cluster Randomized Clinical Trial. *JAMA Network Open,* July 2021. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285736/)
+3.  **Gontjes K**, Gibson KE, Lansing B, Mody L, Cassone M. Can alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes? *Infect Control Hosp Epidemiol*, March 2021. [link](https://doi.org/10.1017/ice.2021.134)
+4.  **Gontjes K**, Gibson KE, Lansing B, Mody L, Cassone M. Assessment of Race and Sex as Risk Factors for Colonization with Multidrug-Resistant Organisms in Six Nursing Homes. *Infect Control Hosp Epidemiol*, June 2020. [link](https://doi.org/10.1017/ice.2020.215)
+5.  **Gontjes K,** Gibson KE, Lansing B, Cassone M, Mody L. Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms. J Am Geriatric Soc., December 2019. [link](https://doi.org/10.1111/jgs.16284)
 
 # Cultural commentaries
 
-**Health education after COVID-19: A time to revisit, revamp, and revitalize?**\
-Link: <https://www.ajicjournal.org/article/S0196-6553(22)00817-3/fulltext>
+I also enjoy writing about a variety of topics. I’ve published commentaries on health education and the role of grace in medicine. Feel free to reach out if you’d like to discuss these subjects or collaborate on a commentary.
 
-**From a culture of blame to a culture of grace: A letter in reply to Papadakis\
-**Link: ​[https://pubmed.ncbi.nlm.nih.gov/34446119/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)
+1.  Gontjes K, Collier K. From a Culture of Blame to a Culture of Grace: A Letter in Reply to Papadakis. *Infect Control Hosp Epidemiol*, August 2021. [link](https://doi.org/10.1017/ice.2021.386)
+2.  Mody M, Gontjes K. Health Education After COVID-19: A Time to Revisit, Revamp, and Revitalize? *A J Infect Control*, December 2022. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)

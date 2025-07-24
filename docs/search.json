@@ -2,7 +2,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "title": "Curriculum vitae",
     "section": "",
     "text": "⬇ Download a copy of my CV (PDF)"
   },
@@ -11,28 +11,35 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a B.Sc. in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households."
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a B.Sc. in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households."
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "About me",
     "section": "Research interests",
-    "text": "Research interests\nMy career goal is to develop innovative solutions to combat antibiotic resistance by applying advanced genomic methods, data analysis methods, and wet lab experimentation to identify patient and bacterial features that drive the emergence and spread of antibiotic resistance. ​\n\n\nMy interests:\n\nEvolution of antibiotic resistance\nTransmission of antibiotic-resistant organisms\nPhylogenetics of bacterial genome-influenced traits\nTranslational infection prevention research \n\n\nMethods of interest:\n\nWhole-genome sequencing\nEpidemiological study designs\nStatistical genomics\nExperimental validation of genomic observations"
+    "text": "Research interests\nMy career goal is to develop innovative solutions to combat antibiotic resistance by combining advanced genomic approaches, data analysis, and wet lab experimentation to identify patient and bacterial features that drive the emergence and spread of antibiotic resistance. ​\n\n\nMy interests:\n\nEvolution of antibiotic resistance\nTransmission of antibiotic-resistant organisms\nPhylogenetics of bacterial genome-influenced traits\nTranslational infection prevention research \n\n\nMethods of interest:\n\nWhole-genome sequencing\nEpidemiological study designs\nStatistical genomics\nExperimental validation of genomic observations"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About me",
+    "section": "Skills",
+    "text": "Skills\n\nSoftware: Microsoft Office, Adobe Creative Suite, BioRender\nProgramming: R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (computing cluster)\nMolecular epidemiology: Whole-genome sequencing, variant calling, gene identification, pangenomics\nStatistical methods: Ancestral state reconstruction, convergence-based genome-wide association, burden testing\nWet lab experimentation: Specimen collection, bacterial cultivation, identification, and susceptibility testing"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Hi there — thanks for visiting my website.\n\nIf you’d like to talk about projects, opportunities, or just say hello, feel free to reach out.\n\n\n\n✉️ Email: kgontjes@umich.edu\n💼 LinkedIn: https://www.linkedin.com/in/kyle-gontjes/\n💻 GitHub: github.com/kylegontjes"
+    "text": "Hi there — thanks for visiting my website.\nIf you’d like to talk about projects, opportunities, or just say hello, feel free to reach out.\n\n\n\n✉️ Email: kgontjes@umich.edu\n💼 LinkedIn: https://www.linkedin.com/in/kyle-gontjes/\n💻 GitHub: github.com/kylegontjes"
   },
   {
     "objectID": "contact.html#contact",
@@ -46,62 +53,62 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria in complex patient populations, including long-term acute care hospitals and households.\nFor the complete list of my publications, please visit my Google Scholar profile.\n\nMicrobial evolution\nPhylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread\nLink: https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1\nKlebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential\n​\nLink: https://journals.asm.org/doi/full/10.1128/mbio.02362-24\n\n\nMicrobial epidemiology\nContamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms \nLink: https://pubmed.ncbi.nlm.nih.gov/31851386/\nAssessment of Race and Sex as Risk Factors for Colonization with Multidrug-resistant Organisms in Six Nursing Homes\nLink: https://pubmed.ncbi.nlm.nih.gov/32493534/\nAssociation of Exposure to High-risk Antibiotics in Acute Care Hospitals With Multidrug-Resistant Organism Burden in Nursing Homes\nLink: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788560\nCan alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes?\nLink: https://doi.org/10.1017/ice.2021.134\nCharacterization of resistance to newer antibiotics among carbapenem-resistant Klebsiella pneumoniae in the post-acute care setting\nLink: https://doi.org/10.1017/ice.2022.185\n\n\nCultural commentaries\nHealth education after COVID-19: A time to revisit, revamp, and revitalize?\nLink: https://www.ajicjournal.org/article/S0196-6553(22)00817-3/fulltext\nFrom a culture of blame to a culture of grace: A letter in reply to Papadakis\nLink: ​https://pubmed.ncbi.nlm.nih.gov/34446119/"
+    "text": "My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria.\nFor the complete list of my publications, please visit my Google Scholar profile.\n\nMicrobial evolution\nI leverage whole-genome sequencing data, phylogenetics, and epidemiological methods to evaluate the evolution of bacterial pathogens. Primarily focusing on the evolution of antibiotic resistance, I am also interested in the genomic drivers of bacterial infections.\n\nGontjes K, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. medRxiv. link\nUnverdorben LV, Pirani A, Gontjes K, Moricz B, Holmes CH, Snitkin ES, Bachman MA. Klebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential. mBio, March 2025. link\n\n\n\nMicrobial genomic epidemiology\nI leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms. Alongside descriptive analyses, I develop novel research methodologies and translational infection prevention research.\n\nLapp Z, … Gontjes K, …, Evan Snitkin, Rachel B Slayton. Distinct Origins and Transmission Pathways of blaKPC Enterobacterales across Three U.S. States. J Clin Microbiol. August 2023. link\nZhang HL, Gontjes K, Han JH, Alby K, Lapp Z, Snitkin S, Goldstein EJC, Muldoon S, Tolomeo P, Lautenbach E. Resistance phenotypes of carbapenem-resistant Klebsiella pneumoniae in a multi-state network of long-term acute care hospitals. Infect Control Hosp Epidemiol. June 2022. link\n\n\n\nTranslational infection prevention research\nAlongside my research on the genomic epidemiology of antibiotic-resistance organisms, I have also conducted translational infection prevention research on the epidemiology of colonization with pathogenic bacteria.\n\nGontjes K, Gibson KE, Lansing B, Karen J, Cassone M, Wang J, Mills J, Mody L, Patel K. Association of exposure to high-risk antibiotics in acute care hospitals with multidrug-resistant organism burden in nursing homes. JAMA Network Open, February 2022. link\nMody L, Gontjes K, Cassone M, Gibson KE, Lansing B, Mantey J, Kabeto M, Galecki A, Min L. Effectiveness of a Multicomponent Intervention to Reduce Multidrug-Resistant Organisms in Nursing Homes: A Cluster Randomized Clinical Trial. JAMA Network Open, July 2021. link\nGontjes K, Gibson KE, Lansing B, Mody L, Cassone M. Can alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes? Infect Control Hosp Epidemiol, March 2021. link\nGontjes K, Gibson KE, Lansing B, Mody L, Cassone M. Assessment of Race and Sex as Risk Factors for Colonization with Multidrug-Resistant Organisms in Six Nursing Homes. Infect Control Hosp Epidemiol, June 2020. link\nGontjes K, Gibson KE, Lansing B, Cassone M, Mody L. Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms. J Am Geriatric Soc., December 2019. link\n\n\n\nCultural commentaries\nI also enjoy writing about a variety of topics. I’ve published commentaries on health education and the role of grace in medicine. Feel free to reach out if you’d like to discuss these subjects or collaborate on a commentary.\n\nGontjes K, Collier K. From a Culture of Blame to a Culture of Grace: A Letter in Reply to Papadakis. Infect Control Hosp Epidemiol, August 2021. link\nMody M, Gontjes K. Health Education After COVID-19: A Time to Revisit, Revamp, and Revitalize? A J Infect Control, December 2022. link"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "My name is Kyle Gontjes, a 5th year PhD Candidate in Microbiology & Immunology at the University of Michigan.\nMy research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households."
+    "text": "I’m Kyle Gontjes, a fifth-year PhD candidate in Microbiology & Immunology at the University of Michigan.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of carbapenem-resistant Enterobacterales in complex populations, including those in long-term acute care hospitals and household settings.\nI conduct my research in the Snitkin Lab, where we focus on microbial genomics and molecular epidemiology.\n\n\nI plan to finish my PhD in Summer 2026 and am open to postdoctoral or research scientist roles in genomic epidemiology. Please feel free to reach out if you’d like to connect.\nExplore my research, publications, tools, and CV to learn more."
   },
   {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "The following tools have been developed to facilitate my research.\nFor more information, see my GitHub: ​https://github.com/kylegontjes"
+    "text": "I’ve developed several open-source tools to support genomic epidemiology and microbial genomics research. These tools aim to simplify common workflows and analyses in bacterial genomics.\nFor more details and to explore the code, visit my Github profile"
   },
   {
     "objectID": "software.html#genescreener",
     "href": "software.html#genescreener",
     "title": "Software",
     "section": "GeneScreener",
-    "text": "GeneScreener\nSnakemake to make running blast on many genomes a bit easier\nhttps://github.com/kylegontjes/GeneScreener"
+    "text": "GeneScreener\nA Snakemake pipeline that automates running BLAST searches across many genomes, making gene screening scalable and reproducible. Repository"
   },
   {
     "objectID": "software.html#isscreener",
     "href": "software.html#isscreener",
     "title": "Software",
     "section": "ISScreener",
-    "text": "ISScreener\nRuns insertion sequence detection workflow on Illumina WGS data\nhttps://github.com/kylegontjes/ISScreener"
+    "text": "ISScreener\nWorkflow designed to detect insertion sequences (IS elements) from Illumina whole-genome sequencing data, helping characterize mobile genetic elements. Repository"
   },
   {
     "objectID": "software.html#coveragestats",
     "href": "software.html#coveragestats",
     "title": "Software",
     "section": "CoverageStats",
-    "text": "CoverageStats\nCalculate coverage statistics after mapping short-read sequenced isolates to a reference sequence\nhttps://github.com/kylegontjes/CoverageStats"
+    "text": "CoverageStats\nCalculates coverage statistics for short-read sequencing data mapped to reference genomes, useful for quality control and comparative analyses. Repository"
   },
   {
     "objectID": "software.html#phylokit",
     "href": "software.html#phylokit",
     "title": "Software",
     "section": "Phylokit",
-    "text": "Phylokit\nSnakemake pipeline to generate a phylogenetic tree from an alignment\nhttps://github.com/Snitkin-Lab-Umich/phylokit"
+    "text": "Phylokit\nA Snakemake pipeline that generates phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. Repository"
   },
   {
     "objectID": "software.html#fastools",
     "href": "software.html#fastools",
     "title": "Software",
     "section": "Fastools",
-    "text": "Fastools\nA collection of a few miscellaneous scripts for processing fasta files\nhttps://github.com/kylegontjes?tab=repositories"
+    "text": "Fastools\nA collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. Repository"
   },
   {
     "objectID": "software.html#phyloamr",
     "href": "software.html#phyloamr",
     "title": "Software",
     "section": "PhyloAMR",
-    "text": "PhyloAMR\nR package with toolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits\nhttps://github.com/kylegontjes/phyloAMR"
+    "text": "PhyloAMR\nAn R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. Repository"
   }
 ]

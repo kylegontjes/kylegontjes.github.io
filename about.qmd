@@ -4,17 +4,17 @@ title: "About me"
 
 ## Biography
 
-A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a B.Sc. in Biology.\
+A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BS in Biology.\
 \
-I followed my passion for infection prevention to the [University of Michigan School of Public Health](https://sph.umich.edu/), where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\
+I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\
 \
-There, I worked for [Dr. Lona Mody](https://medicine.umich.edu/dept/dgpm/lona-mody-md-msc), of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \
+There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \
 \
-Currently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](https://thesnitkinlab.com/index.php) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in complex patient populations, including long-term acute care hospitals and households. 
+Currently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings.
 
 ## Research interests
 
-My career goal is to develop innovative solutions to combat antibiotic resistance by applying advanced genomic methods, data analysis methods, and wet lab experimentation to identify patient and bacterial features that drive the emergence and spread of antibiotic resistance. ​
+My career goal is to develop innovative solutions to combat antibiotic resistance by combining advanced genomic approaches, data analysis, and wet lab experimentation to identify patient and bacterial features that drive the emergence and spread of antibiotic resistance. ​
 
 ::::: columns
 ::: {.column width="50%"}
@@ -41,3 +41,11 @@ Methods of interest:
 4.  Experimental validation of genomic observations
 :::
 :::::
+
+## Skills
+
+1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender
+2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (computing cluster)
+3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics
+4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association, burden testing
+5.  **Wet lab experimentation:** Specimen collection, bacterial cultivation, identification, and susceptibility testing

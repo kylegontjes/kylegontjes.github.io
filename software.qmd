@@ -2,42 +2,30 @@
 title: "Software"
 ---
 
-The following tools have been developed to facilitate my research.
+I’ve developed several open-source tools to support genomic epidemiology and microbial genomics research. These tools aim to simplify common workflows and analyses in bacterial genomics.
 
-For more information, see my GitHub: **​<https://github.com/kylegontjes>**
+For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)
 
 ## GeneScreener
 
-Snakemake to make running blast on many genomes a bit easier
-
-<https://github.com/kylegontjes/GeneScreener>
+A Snakemake pipeline that automates running BLAST searches across many genomes, making gene screening scalable and reproducible. [Repository](https://github.com/kylegontjes/GeneScreener)
 
 ## ISScreener
 
-Runs insertion sequence detection workflow on Illumina WGS data
-
-<https://github.com/kylegontjes/ISScreener>
+Workflow designed to detect insertion sequences (IS elements) from Illumina whole-genome sequencing data, helping characterize mobile genetic elements. [Repository](https://github.com/kylegontjes/ISScreener)
 
 ## **CoverageStats**
 
-Calculate coverage statistics after mapping short-read sequenced isolates to a reference sequence
-
-<https://github.com/kylegontjes/CoverageStats>
+Calculates coverage statistics for short-read sequencing data mapped to reference genomes, useful for quality control and comparative analyses. [Repository](https://github.com/kylegontjes/CoverageStats)
 
 ## Phylokit
 
-Snakemake pipeline to generate a phylogenetic tree from an alignment
-
-<https://github.com/Snitkin-Lab-Umich/phylokit>
+A Snakemake pipeline that generates phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
 
 ## Fastools
 
-A collection of a few miscellaneous scripts for processing fasta files
-
-<https://github.com/kylegontjes?tab=repositories>
+A collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
 
 ## PhyloAMR
 
-R package with toolkit to perform phylogenetically-informed analysis of antibiotic resistance and other genome-influenced traits
-
-[https://github.com/kylegontjes/phyloAMR](https://github.com/kylegontjes/phyloAMR/tree/master)
+An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. [Repository](https://github.com/kylegontjes/phyloAMR)
