@@ -1,0 +1,17 @@
+---
+title: "Professional Philosophy"
+---
+
+## Career problem
+
+Antibiotic resistance threatens to erode decades of progress in treating bacterial infections. To combat this urgent threat, novel strategies are essential to advancing antibiotic development, stewardship, and infection prevention.
+
+## Career mission
+
+My research addresses this challenge by integrating microbial genomics, epidemiological analyses, and wet lab experimentation to identify factors that drive the emergence and spread of antibiotic-resistant bacteria in vulnerable populations. 
+
+## Career research questions
+
+1.  What host and bacterial factors drive the emergence of antibiotic resistance?
+2.  What host, bacterial, and population-level factors facilitate the spread of antibiotic-resistant organisms?
+3.  How can genomic epidemiology studies be leveraged to strenthen drug discovery, antimicrobial stewardship, and infection prevention?

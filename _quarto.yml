@@ -15,10 +15,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: about.qmd 
         text: About
       - href: cv.qmd
         text: CV
+      - href: philosophy.qmd
+        text: Philosophy
       - href: research.qmd
         text: Research
       - href: software.qmd
