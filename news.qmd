@@ -2,26 +2,57 @@
 title: "News"
 ---
 
+## August 2025
+
+-   Abstract accepted as oral presentation at Midwest Microbial Pathogenesis Conference (October 3-5). Let me know if you're planning on joining!
+
 ## July 2025
 
 -   Awarded the Microbiology & Immunology department's Frederick Novy award for student excellence in bacteriology research
 
--   1st PhD first-author manuscript was accepted
+-   1st PhD first-author manuscript was provisionally accepted
 
--   2nd PhD first-author manuscript pre-print was submitted
+-   2nd PhD first-author manuscript was submitted and deposited on medRxiv: [Identifying drivers of β-lactam/β-lactamase inhibitor resistance emergence and spread before their clinical deployment](https://www.medrxiv.org/content/10.1101/2025.07.29.25331838v1)
 
 ## June 2025
 
 -   Collaboration between excellent evolutionary biologists and clinicians deposited on medRxiv: [Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread](https://doi.org/10.1101/2025.06.04.25328982)
 
+## May 2025
+
+-   Collaboration with experimental microbiologists published at mBio: [*Klebsiella pneumoniae* evolution in the gut leads to spontaneous capsule loss and decreased virulence potential](https://journals.asm.org/doi/full/10.1128/mbio.02362-24)
+
 ## July 2024
 
 -   Awarded a two-year NIH F31 fellowship by the National Institutes of Allergy & Infectious Diseases: Genome-driven identification of patient and bacterial drivers of resistance to novel beta-lactam/beta-lactamase
 
+## June 2024
+
+-   Got married!
+
+## November 2022
+
+-   Published a commentary on the importance of improving health education in the wake of the COVID-19 pandemic: [Health education after COVID-19: A time to revisit, revamp, and revitalize?](https://pmc.ncbi.nlm.nih.gov/articles/PMC9699711/)
+
+## August 2021
+
+-   Passed qualifying exam
+
+-   Published an important commentary that challenged the separation of praise in faith from medical practices: [From a culture of blame to a culture of grace: A letter in reply to Papadakis](https://doi.org/10.1017/ice.2021.386)
+
 ## March 2021
 
+-   Joined Dr. Evan Snitkin's [laboratory](https://thesnitkinlab.com/index.php) for thesis work
 -   Awarded a two-year NIH T32 spot on the Genome Science Training Program
 
 ## October 2020
 
 -   Awarded the Society of Healthcare Epidemiology of America's Yoshikawa-High award for best long-term care abstract at IDWeek 2020
+
+## August 2020
+
+-   Started PhD in Microbiology & Immunology at University of Michigan
+
+## April 2020
+
+-   Graduated with MPH in Hospital & Molecular Epidemiology from University of Michigan School of Public Health
