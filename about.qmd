@@ -10,7 +10,7 @@ I followed my passion for infection prevention to the [University of Michigan Sc
 \
 There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \
 \
-Currently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings.
+Currently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings.
 
 ## Research interests
 

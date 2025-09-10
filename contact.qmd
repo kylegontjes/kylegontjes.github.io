@@ -4,12 +4,12 @@ title: "Contact"
 
 # Let's get in touch
 
-Hi there — thanks for visiting my website.
+Thanks for visiting my website!
 
 If you’d like to talk about projects, opportunities, or just say hello, feel free to reach out.
 
 ## 📬 Contact
 
 -   ✉️ **Email:** kgontjes\@umich.edu
--   💼 **LinkedIn:** <https://www.linkedin.com/in/kyle-gontjes/>
--   💻 **GitHub:** [github.com/kylegontjes](https://github.com/yourhandle)
+-   💻 **GitHub:** [github.com/kylegontjes](https://github.com/kylegontjes)
+-   💼 **LinkedIn:** [linkedin.com/in/kyle-gontjes](https://linkedin.com/in/kyle-gontjes/)

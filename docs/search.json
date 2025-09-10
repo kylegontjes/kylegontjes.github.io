@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 5th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BS in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\n\nThere, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \n\nCurrently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with Dr. Evan Snitkin to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings."
   },
   {
     "objectID": "about.html#research-interests",
@@ -39,14 +39,21 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Abstract accepted as oral presentation at Midwest Microbial Pathogenesis Conference (October 3-5). Let me know if you’re planning on joining!"
+    "text": "Selected to give my 812 presentation during departmental PIBS recruiting week. Excited to share the (final!) update on my work to fellow students and recruits!"
+  },
+  {
+    "objectID": "news.html#september-2025",
+    "href": "news.html#september-2025",
+    "title": "News",
+    "section": "",
+    "text": "Selected to give my 812 presentation during departmental PIBS recruiting week. Excited to share the (final!) update on my work to fellow students and recruits!"
   },
   {
     "objectID": "news.html#august-2025",
     "href": "news.html#august-2025",
     "title": "News",
-    "section": "",
-    "text": "Abstract accepted as oral presentation at Midwest Microbial Pathogenesis Conference (October 3-5). Let me know if you’re planning on joining!"
+    "section": "August 2025",
+    "text": "August 2025\n\nAbstract accepted as oral presentation at Midwest Microbial Pathogenesis Conference (October 3-5). Let me know if you’re planning on joining!"
   },
   {
     "objectID": "news.html#july-2025",
@@ -165,21 +172,21 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Hi there — thanks for visiting my website.\nIf you’d like to talk about projects, opportunities, or just say hello, feel free to reach out.\n\n\n\n✉️ Email: kgontjes@umich.edu\n💼 LinkedIn: https://www.linkedin.com/in/kyle-gontjes/\n💻 GitHub: github.com/kylegontjes"
+    "text": "Thanks for visiting my website!\nIf you’d like to talk about projects, opportunities, or just say hello, feel free to reach out.\n\n\n\n✉️ Email: kgontjes@umich.edu\n💻 GitHub: github.com/kylegontjes\n💼 LinkedIn: linkedin.com/in/kyle-gontjes"
   },
   {
     "objectID": "contact.html#contact",
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "",
-    "text": "✉️ Email: kgontjes@umich.edu\n💼 LinkedIn: https://www.linkedin.com/in/kyle-gontjes/\n💻 GitHub: github.com/kylegontjes"
+    "text": "✉️ Email: kgontjes@umich.edu\n💻 GitHub: github.com/kylegontjes\n💼 LinkedIn: linkedin.com/in/kyle-gontjes"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I’m Kyle Gontjes, a fifth-year PhD candidate in Microbiology & Immunology at the University of Michigan.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of carbapenem-resistant Enterobacterales in complex populations, including those in long-term acute care hospitals and household settings.\nI conduct my research in the Snitkin Lab, where we focus on microbial genomics and molecular epidemiology.\n\n\nI plan to finish my PhD in Summer 2026 and am open to postdoctoral or research scientist roles in genomic epidemiology. Please feel free to reach out if you’d like to connect.\nExplore my research, publications, tools, and CV to learn more."
+    "text": "I’m Kyle Gontjes, a sixth-year PhD candidate in Microbiology & Immunology at the University of Michigan.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of carbapenem-resistant Enterobacterales in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.\nI conduct my research in the Snitkin Lab, where we focus on microbial genomics and molecular epidemiology.\nExplore my research, publications, tools, and CV to learn more.\n\n\n\nNext steps!\nI plan to finish my PhD in Summer 2026!\nI am seeking postdoctoral or research scientist roles in genomic epidemiology, with special preference to continuing resistance on antibiotic resistance in bacterial pathogens.\nPlease feel free to reach out if you’d like to connect or know of a relevant opportunity."
   },
   {
     "objectID": "software.html",
