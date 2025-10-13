@@ -4,11 +4,9 @@ title: "About me"
 
 ## Biography
 
-A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BS in Biology.\
+A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BSc in Biology.\
 \
-I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020.\
-\
-There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying antibiotic-resistant bacteria and infection prevention in hospitals and nursing homes. \
+I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. \
 \
 Currently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings.
 
@@ -36,7 +34,7 @@ Methods of interest:
 
 2.  Epidemiological study designs
 
-3.  Statistical genomics
+3.  Statistical genomics and phylogenetics
 
 4.  Experimental validation of genomic observations
 :::
@@ -45,7 +43,7 @@ Methods of interest:
 ## Skills
 
 1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender
-2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (computing cluster)
+2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performeance computing cluster)
 3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics
 4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association, burden testing
 5.  **Wet lab experimentation:** Specimen collection, bacterial cultivation, identification, and susceptibility testing

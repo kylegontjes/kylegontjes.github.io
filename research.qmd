@@ -10,8 +10,10 @@ For the complete list of my publications, please visit my [Google Scholar profil
 
 I leverage whole-genome sequencing data, phylogenetics, and epidemiological methods to evaluate the evolution of bacterial pathogens. Primarily focusing on the evolution of antibiotic resistance, I am also interested in the genomic drivers of bacterial infections.
 
-1.  **Gontjes K**, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. *medRxiv.* [link](https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1)
-2.  Unverdorben LV, Pirani A, **Gontjes K**, Moricz B, Holmes CH, Snitkin ES, Bachman MA. Klebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential. *mBio*, March 2025. [link](https://doi.org/10.1128/mbio.02362-24)
+1.  **Gontjes K**, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. *Journal of Infectious Diseases.* September 2025. [link](https://doi.org/10.1093/infdis/jiaf478)
+2.  **Gontjes K**, ..., Lautenbach E, Snitkin E. Identifying drivers of β-lactam/β-lactamase inhibitor resistance emergence and spread before their clinical deployment. medRxiv.[link](https://www.medrxiv.org/content/10.1101/2025.07.29.25331838v1.full)
+3.  Boyko J, **Gontjes K,** Snitkin E, Smith SA. Uncertainty in joint Ancestral State Reconstruction: Improving accuracy and biological interpretability of ancestral state prediction. bioRxiv. [link](https://www.biorxiv.org/content/10.1101/2025.10.09.681367v1)
+4.  Unverdorben LV, Pirani A, **Gontjes K**, Moricz B, Holmes CH, Snitkin ES, Bachman MA. Klebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential. *mBio*, March 2025. [link](https://doi.org/10.1128/mbio.02362-24)
 
 # Microbial genomic epidemiology
 

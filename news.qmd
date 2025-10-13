@@ -2,9 +2,18 @@
 title: "News"
 ---
 
+## October 2025
+
+-   Scheduled last committee meeting before defense for November 19. Excited to identify a defense date and determine next steps.
+
+-   Exciting collaboration with James Boyko & Stephen A. Smith was submitted and posted on bioRxiv: [Uncertainty in joint Ancestral State Reconstruction: Improving accuracy and biological interpretability of ancestral state prediction](https://www.biorxiv.org/content/10.1101/2025.10.09.681367v1)
+
+-   Presented at Midwest Microbial Pathogenesis Conference!
+
 ## September 2025
 
--   Selected to give my 812 presentation during departmental PIBS recruiting week. Excited to share the (final!) update on my work to fellow students and recruits!
+-   1st PhD first-author manuscript was published in *J Infectious Diseases:* [Phylogenetic Context of Antibiotic Resistance Provides Insights into the Dynamics of Resistance Emergence and Spread](https://doi.org/10.1093/infdis/jiaf478)
+-   Selected to give my research update presentation during departmental PIBS recruiting week. Excited to share the (final!) update on my work to fellow students and recruits!
 
 ## August 2025
 

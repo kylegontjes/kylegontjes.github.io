@@ -6,6 +6,10 @@ I’ve developed several open-source tools to support genomic epidemiology and m
 
 For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)
 
+## PhyloAMR
+
+An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. [Repository](https://github.com/kylegontjes/phyloAMR)
+
 ## GeneScreener
 
 A Snakemake pipeline that automates running BLAST searches across many genomes, making gene screening scalable and reproducible. [Repository](https://github.com/kylegontjes/GeneScreener)
@@ -26,6 +30,4 @@ A Snakemake pipeline that generates phylogenetic trees from sequence alignments,
 
 A collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
 
-## PhyloAMR
-
-An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. [Repository](https://github.com/kylegontjes/phyloAMR)
+## 
