@@ -2,6 +2,10 @@
 title: "News"
 ---
 
+## November 2025
+
+-   Submitted an exciting UPENN/CDC collaboration on household transmission of multidrug-resistant bacteria!
+
 ## October 2025
 
 -   Scheduled last committee meeting before defense for November 19. Excited to identify a defense date and determine next steps.
@@ -65,6 +69,10 @@ title: "News"
 ## August 2020
 
 -   Started PhD in Microbiology & Immunology at University of Michigan
+
+## **Summer 2020**
+
+-   Completed a Michigan Institute for Clinical & Health Research (MICHR) Summer Immersion Program under mentorship of Dr Payal K Patel. Our work on how high-risk antibiotic exposures in hospitals influence nursing home multidrug-resistant organism epidemiology was published in[JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788560).
 
 ## April 2020
 

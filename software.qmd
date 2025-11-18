@@ -12,7 +12,7 @@ An R package that provides tools for phylogenetically informed analysis of antib
 
 ## GeneScreener
 
-A Snakemake pipeline that automates running BLAST searches across many genomes, making gene screening scalable and reproducible. [Repository](https://github.com/kylegontjes/GeneScreener)
+Pipeline designed to automates running BLAST searches across many genomes, making gene screening scalable and reproducible. [Repository](#0)
 
 ## ISScreener
 
@@ -20,14 +20,14 @@ Workflow designed to detect insertion sequences (IS elements) from Illumina whol
 
 ## **CoverageStats**
 
-Calculates coverage statistics for short-read sequencing data mapped to reference genomes, useful for quality control and comparative analyses. [Repository](https://github.com/kylegontjes/CoverageStats)
+Pipeline that calculates coverage statistics for short-read sequencing data by mapped to reference sequences. Useful for quality control and comparative analyses. [Repository](https://github.com/kylegontjes/CoverageStats)
 
 ## Phylokit
 
-A Snakemake pipeline that generates phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
+A Snakemake pipeline to generate phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
 
 ## Fastools
 
-A collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
+A growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
 
 ## 

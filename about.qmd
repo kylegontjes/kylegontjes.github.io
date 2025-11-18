@@ -6,9 +6,9 @@ title: "About me"
 
 A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BSc in Biology.\
 \
-I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. \
+I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education. \
 \
-Currently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of carbapenem-resistant Enterobacterales in hospital and community settings.
+Currently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.
 
 ## Research interests
 

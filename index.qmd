@@ -13,7 +13,7 @@ title: "Welcome!"
 ::: {.column width="65%"}
 I’m Kyle Gontjes, a sixth-year PhD candidate in Microbiology & Immunology at the University of Michigan.
 
-My research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of carbapenem-resistant Enterobacterales in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.
+My research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.
 
 I conduct my research in the [Snitkin Lab](<https://thesnitkinlab.com/index.php>), where we focus on microbial genomics and molecular epidemiology.
 
@@ -23,7 +23,7 @@ Explore my [research](research.qmd), [publications](<https://scholar.google.com/
 
 # Next steps!
 
-I plan to finish my PhD in the Spring/Summer 2026! 
+I plan to finish my PhD in Summer 2026! 
 
 I am seeking postdoctoral or research scientist positions in genomic epidemiology, with special preference to continuing resistance on antibiotic resistance in bacterial pathogens. 
 
