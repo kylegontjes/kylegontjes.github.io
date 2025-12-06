@@ -2,7 +2,8 @@
 title: "Software"
 ---
 
-I’ve developed several open-source tools to support genomic epidemiology and microbial genomics research. These tools aim to simplify common workflows and analyses in bacterial genomics.
+I have also developed several open-source tools to support genomic epidemiology and microbial genomics research. \
+These tools aim to simplify common workflows and analyses in bacterial genomics.
 
 For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)
 
@@ -29,5 +30,3 @@ A Snakemake pipeline to generate phylogenetic trees from sequence alignments, st
 ## Fastools
 
 A growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
-
-## 

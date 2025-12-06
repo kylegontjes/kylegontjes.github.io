@@ -6,7 +6,7 @@ title: "About me"
 
 A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BSc in Biology.\
 \
-I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education. \
+I followed my passion for infection prevention to the [University of Michigan School of Public Health](#0), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](#0), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\
 \
 Currently, I am in my 6th year of a PhD in Microbiology & Immunology. I work with [Dr. Evan Snitkin](#0) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.
 
@@ -24,7 +24,9 @@ My interests:
 
 3.  Phylogenetics of bacterial genome-influenced traits
 
-4.  Translational infection prevention research 
+4.  Epidemiologic trends of antibiotic-resistant organisms
+
+5.  Translational infection prevention research 
 :::
 
 ::: {.column width="50%"}
@@ -36,14 +38,16 @@ Methods of interest:
 
 3.  Statistical genomics and phylogenetics
 
-4.  Experimental validation of genomic observations
+4.  Bioinformatic tool development for molecular epidemiology
+
+5.  Experimental validation of genomic observations
 :::
 :::::
 
 ## Skills
 
-1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender
-2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performeance computing cluster)
-3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics
-4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association, burden testing
+1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender, DropBox, and Google Suites
+2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performance computing cluster)
+3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics, phylogenetics
+4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association, burden testing, regression modeling
 5.  **Wet lab experimentation:** Specimen collection, bacterial cultivation, identification, and susceptibility testing
