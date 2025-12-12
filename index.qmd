@@ -2,6 +2,8 @@
 title: "Welcome!"
 ---
 
+<meta name="google-site-verification" content="OVx4xwkkAh5TImqGfeTCpfvAXokfBkW2Ey_Sv4EFoQ4" />
+
 :::::: columns
 ::: {.column width="30%"}
 ![](images/headshot-01.jpeg)

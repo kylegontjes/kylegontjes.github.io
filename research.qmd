@@ -8,7 +8,7 @@ For the complete list of my publications, please visit my [Google Scholar profil
 
 # **Microbial evolution**
 
-I leverage whole-genome sequencing data, phylogenetics, and epidemiological methods to evaluate the evolution of bacterial pathogens. \
+I leverage whole-genome sequencing data, phylogenetics, and epidemiological methods to evaluate the evolution of bacterial pathogens.\
 Primarily focusing on the evolution of antibiotic resistance, I am also interested in the genomic drivers of bacterial infections.
 
 1.  **Gontjes K**, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. *Journal of Infectious Diseases.* 2025. [link](https://doi.org/10.1093/infdis/jiaf478)
@@ -18,7 +18,7 @@ Primarily focusing on the evolution of antibiotic resistance, I am also interest
 
 # Microbial genomic epidemiology
 
-I leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms. \
+I leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms.\
 Alongside descriptive analyses, I develop novel research methodologies and translational infection prevention research.
 
 1.  Lapp Z, … **Gontjes K**, …, Evan Snitkin, Rachel B Slayton. Distinct Origins and Transmission Pathways of blaKPC Enterobacterales across Three U.S. States. *J Clin Microbiol*. 2023. [link](https://doi.org/10.1128/jcm.00259-23)
@@ -32,11 +32,11 @@ Alongside my research on the genomic epidemiology of antibiotic-resistance organ
 2.  Mody L, **Gontjes K,** Cassone M, Gibson KE, Lansing B, Mantey J, Kabeto M, Galecki A, Min L. Effectiveness of a Multicomponent Intervention to Reduce Multidrug-Resistant Organisms in Nursing Homes: A Cluster Randomized Clinical Trial. *JAMA Network Open,* 2021. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285736/)
 3.  **Gontjes K**, Gibson KE, Lansing B, Mody L, Cassone M. Can alternative anatomical sites and environmental surveillance replace perianal screening for multidrug-resistant organisms in nursing homes? *Infect Control Hosp Epidemiol*, 2021. [link](https://doi.org/10.1017/ice.2021.134)
 4.  **Gontjes K**, Gibson KE, Lansing B, Mody L, Cassone M. Assessment of Race and Sex as Risk Factors for Colonization with Multidrug-Resistant Organisms in Six Nursing Homes. *Infect Control Hosp Epidemiol*, 2020. [link](https://doi.org/10.1017/ice.2020.215)
-5.  **Gontjes K,** Gibson KE, Lansing B, Cassone M, Mody L. Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms. J Am Geriatric Soc.,  2020. [link](https://doi.org/10.1111/jgs.16284)
+5.  **Gontjes K,** Gibson KE, Lansing B, Cassone M, Mody L. Contamination of Common Area and Rehabilitation Gym Environment with Multidrug-Resistant Organisms. J Am Geriatric Soc., 2020. [link](https://doi.org/10.1111/jgs.16284)
 
 # **Public health education**
 
-Alongside my genomic epidemiology research, I am interest in understanding interest and confidence in public health. \
+Alongside my genomic epidemiology research, I am interest in understanding interest and confidence in public health.\
 To accomplish this, I have led the deployment of two surveys to gauge young adult voices on public health, health education, and infection prevention related topics.
 
 1.  Mody M, **Gontjes K.** Health Education After COVID-19: A Time to Revisit, Revamp, and Revitalize? *A J Infect Control*, 2022. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446583/)
@@ -44,7 +44,7 @@ To accomplish this, I have led the deployment of two surveys to gauge young adul
 
 # Cultural commentaries
 
-I also enjoy writing about a variety of topics. I’ve published commentaries on the role of grace in medicine. \
+I also enjoy writing about a variety of topics. I’ve published commentaries on the role of grace in medicine.\
 Feel free to reach out if you’d like to discuss these subjects or collaborate on a commentary!
 
 1.  **Gontjes K,** Collier K. From a Culture of Blame to a Culture of Grace: A Letter in Reply to Papadakis. *Infect Control Hosp Epidemiol*, August 2021. [link](https://doi.org/10.1017/ice.2021.386)

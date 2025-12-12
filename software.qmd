@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-I have also developed several open-source tools to support genomic epidemiology and microbial genomics research. \
+I have also developed several open-source tools to support genomic epidemiology and microbial genomics research.\
 These tools aim to simplify common workflows and analyses in bacterial genomics.
 
 For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)
