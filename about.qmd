@@ -26,7 +26,7 @@ My interests:
 
 4.  Epidemiologic trends of antibiotic-resistant organisms
 
-5.  Translational infection prevention research 
+5.  Translational infection prevention research
 :::
 
 ::: {.column width="50%"}
@@ -38,7 +38,7 @@ Methods of interest:
 
 3.  Statistical genomics and phylogenetics
 
-4.  Bioinformatic tool development for molecular epidemiology
+4.  Bioinformatic tool and pipeline development for molecular epidemiology
 
 5.  Experimental validation of genomic observations
 :::
@@ -49,5 +49,5 @@ Methods of interest:
 1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender, DropBox, and Google Suites
 2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performance computing cluster)
 3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics, phylogenetics
-4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association, burden testing, regression modeling
+4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association studies, burden testing, regression modeling
 5.  **Wet lab experimentation:** Specimen collection, bacterial cultivation, identification, and susceptibility testing

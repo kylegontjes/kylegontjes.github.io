@@ -2,8 +2,6 @@
 title: "Welcome!"
 ---
 
-<meta name="google-site-verification" content="OVx4xwkkAh5TImqGfeTCpfvAXokfBkW2Ey_Sv4EFoQ4" />
-
 :::::: columns
 ::: {.column width="30%"}
 ![](images/headshot-01.jpeg)
@@ -27,6 +25,6 @@ Explore my [research](research.qmd), [publications](<https://scholar.google.com/
 
 I am seeking postdoctoral or research scientist positions in genomic epidemiology, with special preference to continuing clinically-relevant research on antibiotic resistance in bacterial pathogens. 
 
-I plan to defend my PhD in February or March 2026. I will be available to start a new position in June or July.
+I am defining my PhD on March 11th, 2026. I will be available to start a new position in July 2026. 
 
 Please feel free to reach out if you’d like to connect or know of a relevant opportunity!

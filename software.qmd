@@ -2,18 +2,19 @@
 title: "Software"
 ---
 
-I have also developed several open-source tools to support genomic epidemiology and microbial genomics research.\
-These tools aim to simplify common workflows and analyses in bacterial genomics.
+I have also developed several open-source tools to support genomic epidemiology and microbial genomics research.
 
-For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)
+These tools aim to streamline common workflows and analyses in bacterial genomics.
+
+For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)!
 
 ## PhyloAMR
 
-An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. [Repository](https://github.com/kylegontjes/phyloAMR)
+An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses such as genotype-phenotype relationships and lineage tracking. [Repository](https://github.com/kylegontjes/phyloAMR)
 
 ## GeneScreener
 
-Pipeline designed to automates running BLAST searches across many genomes, making gene screening scalable and reproducible. [Repository](#0)
+Pipeline designed to automates running BLAST searches across many genomes, making gene identification scalable and reproducible. [Repository](#0)
 
 ## ISScreener
 
