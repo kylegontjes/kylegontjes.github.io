@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research leverages clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria in hospital and community settings.
+My research uses clinical metadata and whole-genome sequencing to study the evolution and spread of antibiotic resistant bacteria in hospital and community settings.
 
 For the complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hG4WnBEAAAAJ&hl=en).
 
@@ -13,13 +13,12 @@ Primarily focusing on the evolution and spread of antibiotic resistance, I am al
 
 1.  **Gontjes K**, Singh A, Sansom SE, Boyko J, Smith SA, Lautenbach E, Snitkin E. Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread. *Journal of Infectious Diseases.* 2025. [link](https://doi.org/10.1093/infdis/jiaf478)
 2.  **Gontjes K**, ..., Lautenbach E, Snitkin E. Identifying drivers of β-lactam/β-lactamase inhibitor resistance emergence and spread before their clinical deployment. medRxiv. [link](https://www.medrxiv.org/content/10.1101/2025.07.29.25331838v1.full)
-3.  Boyko J, **Gontjes K,** Snitkin E, Smith SA. Uncertainty in joint ancestral state reconstruction: Improving accuracy and biological interpretability of ancestral state prediction. bioRxiv. [link](https://www.biorxiv.org/content/10.1101/2025.10.09.681367v1)
+3.  Boyko J, **Gontjes K,** Snitkin E, Smith SA. Uncertainty in joint ancestral state reconstruction: Improving accuracy and biological interpretability of ancestral state prediction. Accepted at PNAS. [link](https://www.biorxiv.org/content/10.1101/2025.10.09.681367v1)
 4.  Unverdorben LV, Pirani A, **Gontjes K**, Moricz B, Holmes CH, Snitkin ES, Bachman MA. Klebsiella pneumoniae evolution in the gut leads to spontaneous capsule loss and decreased virulence potential. *mBio*, 2025. [link](https://doi.org/10.1128/mbio.02362-24)
 
 # Microbial genomic epidemiology
 
-I leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms.\
-Alongside descriptive analyses, I develop novel research methodologies and translational infection prevention research.
+I leverage observational and intervention studies to evaluate the distribution and determinants of colonization and infection with antibiotic-resistant organisms.
 
 1.  Lapp Z, … **Gontjes K**, …, Evan Snitkin, Rachel B Slayton. Distinct Origins and Transmission Pathways of blaKPC Enterobacterales across Three U.S. States. *J Clin Microbiol*. 2023. [link](https://doi.org/10.1128/jcm.00259-23)
 2.  Zhang HL, **Gontjes K,** Han JH, Alby K, Lapp Z, Snitkin S, Goldstein EJC, Muldoon S, Tolomeo P, Lautenbach E. Resistance phenotypes of carbapenem-resistant Klebsiella pneumoniae in a multi-state network of long-term acute care hospitals. *Infect Control Hosp Epidemiol*. 2022. [link](https://doi.org/10.1017/ice.2022.185)

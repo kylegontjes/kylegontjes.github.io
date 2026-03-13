@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9344fb9851b4da3cab95007ef9d770dc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f245066ca199b7326ac6b360085ddf3a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Kyle Gontjes</span>
     </a>
@@ -165,14 +168,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<meta name="google-site-verification" content="OVx4xwkkAh5TImqGfeTCpfvAXokfBkW2Ey_Sv4EFoQ4">
 <div class="columns">
 <div class="column" style="width:30%;">
 <p><img src="images/headshot-01.jpeg" class="img-fluid"></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
-<p>I’m Kyle Gontjes, a sixth-year PhD candidate in Microbiology &amp; Immunology at the University of Michigan.</p>
+<p>I’m Kyle Gontjes, a researcher in the Microbiology &amp; Immunology Department at the University of Michigan.</p>
 <p>My research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.</p>
 <p>I conduct my research in the <a href="https://thesnitkinlab.com/index.php">Snitkin Lab</a>, where we focus on microbial genomics, molecular epidemiology, and bacterial evolution.</p>
 <p>Explore my <a href="./research.html">research</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=hG4WnBEAAAAJ&amp;view_op=list_works">publications</a>, <a href="./software.html">tools</a>, and <a href="./cv.html">CV</a> to learn more.</p>
@@ -180,9 +182,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="next-steps" class="level1">
 <h1>Next steps!</h1>
-<p>I am seeking postdoctoral or research scientist positions in genomic epidemiology, with special preference to continuing clinically-relevant research on antibiotic resistance in bacterial pathogens.</p>
-<p>I plan to defend my PhD in February or March 2026. I will be available to start a new position in June or July.</p>
-<p>Please feel free to reach out if you’d like to connect or know of a relevant opportunity!</p>
+<p>I defended my thesis on March 11th, 2026!</p>
+<p>Later this year, I will start a research faculty appointment (Research Investigator) in the department. I am excited to continue my genomic epidemiology at the University of Michigan.</p>
 
 
 </section>
@@ -239,13 +240,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

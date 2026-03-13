@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9344fb9851b4da3cab95007ef9d770dc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f245066ca199b7326ac6b360085ddf3a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Kyle Gontjes</span>
     </a>
@@ -139,12 +142,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#phyloamr" id="toc-phyloamr" class="nav-link active" data-scroll-target="#phyloamr">PhyloAMR</a></li>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link active" data-scroll-target="#r-packages">R packages</a>
+  <ul class="collapse">
+  <li><a href="#phyloamr" id="toc-phyloamr" class="nav-link" data-scroll-target="#phyloamr">PhyloAMR</a></li>
   <li><a href="#genescreener" id="toc-genescreener" class="nav-link" data-scroll-target="#genescreener">GeneScreener</a></li>
+  </ul></li>
+  <li><a href="#command-line-tools" id="toc-command-line-tools" class="nav-link" data-scroll-target="#command-line-tools">Command line tools</a>
+  <ul class="collapse">
   <li><a href="#isscreener" id="toc-isscreener" class="nav-link" data-scroll-target="#isscreener">ISScreener</a></li>
   <li><a href="#coveragestats" id="toc-coveragestats" class="nav-link" data-scroll-target="#coveragestats"><strong>CoverageStats</strong></a></li>
   <li><a href="#phylokit" id="toc-phylokit" class="nav-link" data-scroll-target="#phylokit">Phylokit</a></li>
   <li><a href="#fastools" id="toc-fastools" class="nav-link" data-scroll-target="#fastools">Fastools</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -170,17 +179,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I have also developed several open-source tools to support genomic epidemiology and microbial genomics research.<br>
-These tools aim to simplify common workflows and analyses in bacterial genomics.</p>
-<p>For more details and to explore the code, visit my <a href="https://github.com/kylegontjes">Github profile</a></p>
+<p>I have also developed several tools to support genomic epidemiology and microbial genomics research.</p>
+<p>For more details and to explore the code, visit my <a href="https://github.com/kylegontjes">Github profile</a>!</p>
+<section id="r-packages" class="level1">
+<h1>R packages</h1>
 <section id="phyloamr" class="level2">
 <h2 class="anchored" data-anchor-id="phyloamr">PhyloAMR</h2>
-<p>An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses. <a href="https://github.com/kylegontjes/phyloAMR">Repository</a></p>
+<p>An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses such as genotype-phenotype relationships and lineage tracking. <a href="https://github.com/kylegontjes/phyloAMR">Repository</a></p>
 </section>
 <section id="genescreener" class="level2">
 <h2 class="anchored" data-anchor-id="genescreener">GeneScreener</h2>
-<p>Pipeline designed to automates running BLAST searches across many genomes, making gene screening scalable and reproducible. <a href="#0">Repository</a></p>
+<p>Pipeline designed to automates running BLAST searches across many genomes, making gene identification accessible and reproducible. <a href="#0">Repository</a></p>
 </section>
+</section>
+<section id="command-line-tools" class="level1">
+<h1>Command line tools</h1>
 <section id="isscreener" class="level2">
 <h2 class="anchored" data-anchor-id="isscreener">ISScreener</h2>
 <p>Workflow designed to detect insertion sequences (IS elements) from Illumina whole-genome sequencing data, helping characterize mobile genetic elements. <a href="https://github.com/kylegontjes/ISScreener">Repository</a></p>
@@ -191,13 +204,14 @@ These tools aim to simplify common workflows and analyses in bacterial genomics.
 </section>
 <section id="phylokit" class="level2">
 <h2 class="anchored" data-anchor-id="phylokit">Phylokit</h2>
-<p>A Snakemake pipeline to generate phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. <a href="https://github.com/Snitkin-Lab-Umich/phylokit">Repository</a></p>
+<p>A Snakemake pipeline to generate phylogenies from sequence alignments, streamlining evolutionary analysis workflows. <a href="https://github.com/Snitkin-Lab-Umich/phylokit">Repository</a></p>
 </section>
 <section id="fastools" class="level2">
 <h2 class="anchored" data-anchor-id="fastools">Fastools</h2>
 <p>A growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. <a href="https://github.com/kylegontjes?tab=repositories">Repository</a></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -252,13 +266,14 @@ These tools aim to simplify common workflows and analyses in bacterial genomics.
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

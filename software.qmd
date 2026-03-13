@@ -2,11 +2,11 @@
 title: "Software"
 ---
 
-I have also developed several open-source tools to support genomic epidemiology and microbial genomics research.
-
-These tools aim to streamline common workflows and analyses in bacterial genomics.
+I have also developed several tools to support genomic epidemiology and microbial genomics research.
 
 For more details and to explore the code, visit my [Github profile](https://github.com/kylegontjes)!
+
+# R packages
 
 ## PhyloAMR
 
@@ -14,7 +14,9 @@ An R package that provides tools for phylogenetically informed analysis of antib
 
 ## GeneScreener
 
-Pipeline designed to automates running BLAST searches across many genomes, making gene identification scalable and reproducible. [Repository](#0)
+Pipeline designed to automates running BLAST searches across many genomes, making gene identification accessible and reproducible. [Repository](#0)
+
+# Command line tools
 
 ## ISScreener
 
@@ -26,7 +28,7 @@ Pipeline that calculates coverage statistics for short-read sequencing data by m
 
 ## Phylokit
 
-A Snakemake pipeline to generate phylogenetic trees from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
+A Snakemake pipeline to generate phylogenies from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
 
 ## Fastools
 

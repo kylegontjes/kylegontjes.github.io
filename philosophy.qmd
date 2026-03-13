@@ -4,18 +4,18 @@ title: "Professional Philosophy"
 
 ## Career problem
 
-Antibiotic resistance threatens to erode decades of progress in treating bacterial infections. To combat this urgent threat, novel strategies are essential to advancing antibiotic development, steward our current antibiotics, and prevent the development and spread of antibiotic-resistant bacteria.
+Antibiotic resistance threatens to erode decades of progress in treating bacterial infections. To combat this urgent threat, novel strategies are needed to advancing antibiotic development, steward our current antibiotics, and prevent the development and spread of antibiotic-resistant bacteria.
 
 ## Career mission
 
-My career goal is to integrate microbial genomics, clinical epidemiological analyses, and wet lab experimentation to identify factors that drive the emergence and spread of antibiotic-resistant bacteria in vulnerable populations. Through this research, I hope to inform clinical and public health decision intervention and prevention efforts.
+My career goal is to integrate microbial genomics, clinical epidemiological analyses, and wet lab experimentation to identify divers of the emergence and spread of resistant bacteria in vulnerable populations. Through this research, I hope to inform clinical and public health decisionmaking and interventions.
 
 ## Career station
 
-I plan to conduct high-impact, collaborative, interdisciplinary research at a leading academic medical center. These institutions enable access to leading clinical collaborators, advanced genomics cores, and experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology, whilst enabling the investigation of clinical findings in model *in vitro* and *in vivo* systems.
+I plan to conduct high-impact, collaborative research at the University of Michigan, a leading academic medical center. The University of Michigan has leading clinical collaborators, advanced genomics cores, and innovative experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology research, while enabling investigation of clinical findings in model *in vivo* and *in vitro* systems.
 
 ## Career research questions
 
-1.  What host and bacterial factors drive the emergence of antibiotic resistance?
+1.  What host and bacterial factors drive the emergence sof antibiotic resistance?
 2.  What host, bacterial, and population-level factors facilitate the spread of antibiotic-resistant organisms?
 3.  How can genomic epidemiology studies be leveraged to strengthen drug discovery, antimicrobial stewardship, and infection prevention?
