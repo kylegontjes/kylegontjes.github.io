@@ -2,13 +2,11 @@
 title: "Contact"
 ---
 
-# Let's get in touch
-
 Thanks for visiting my website!
 
 If you’d like to talk about projects, collaborations, or say hello, feel free to reach out.
 
-## 📬 Contact
+## 📬 Ways to get in touch
 
 -   ✉️ **Email:** kgontjes\@umich.edu
 -   💻 **GitHub:** [github.com/kylegontjes](https://github.com/kylegontjes)

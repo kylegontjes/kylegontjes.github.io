@@ -6,11 +6,11 @@ title: "About me"
 
 A native of Grand Rapids, I graduated from [Calvin University](http://www.calvin.edu/) in 2017 with a BSc in Biology.\
 \
-I followed my passion for infection prevention to the [University of Michigan School of Public Health](https://sph.umich.edu/), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for [Dr. Lona Mody](https://criisp-mody.lab.medicine.umich.edu/home), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\
+I followed my passion for infection prevention to the [University of Michigan School of Public Health](https://sph.umich.edu/), where I completed an MPH in Hospital & Molecular Epidemiology in 2020. During my MPH, I worked for [Dr. Lona Mody](https://criisp-mody.lab.medicine.umich.edu/home), of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate, with a current focus on capturing young adult voices on public health and health education.\
 \
-I conducted my PhD in Microbiology & Immunology at the University of Michigan Medical School. There, I worked with [Dr. Evan Snitkin](https://medschool.umich.edu/profile/3206/evan-s-snitkin) and [Dr. Ebbing Lautenbach](https://www.med.upenn.edu/apps/faculty/index.php/g275/p10014) to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.
+I did my PhD in Microbiology & Immunology at the University of Michigan Medical School. I worked with [Dr. Evan Snitkin](https://medschool.umich.edu/profile/3206/evan-s-snitkin) and [Dr. Ebbing Lautenbach](https://www.med.upenn.edu/apps/faculty/index.php/g275/p10014) to leverage clinical metadata and whole-genome sequencing to study the emergence and spread of multidrug-resistant organisms in hospital and community settings.
 
-After finishing my PhD, I joined the research faculty at the University of Michigan. I started as a Research Investigator in Dr. Snitkin's laboratory in August, 2026. I am excited to spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research.
+After finishing my PhD, I joined the research faculty at the University of Michigan. I started as a Research Investigator in Dr. Snitkin's laboratory in August, 2026. I am excited to build upon my dissertation research and spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research.
 
 ## Research interests
 

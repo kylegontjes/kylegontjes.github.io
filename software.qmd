@@ -30,7 +30,7 @@ Pipeline that calculates coverage statistics for short-read sequencing data by m
 
 ## Phylokit
 
-A Snakemake pipeline to generate phylogenies from sequence alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
+A Snakemake pipeline to generate phylogenies from whole genome alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
 
 ## Fastools
 
