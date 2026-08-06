@@ -11,11 +11,11 @@ title: "Welcome!"
 :::
 
 ::: {.column width="65%"}
-I’m Kyle Gontjes, a postdoctoral research fellow in the Department of Microbiology & Immunology at the University of Michigan Medical School.
+I’m Kyle Gontjes, a Research Investigator in the Department of Microbiology & Immunology at the University of Michigan Medical School.
 
 My research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.
 
-I conduct my research in the [Snitkin Lab](<https://thesnitkinlab.com/index.php>), where we focus on microbial genomics, molecular epidemiology, and bacterial evolution.
+I conduct my research in the [Snitkin Lab](<https://thesnitkinlab.com/index.php>), where we focus on microbial genomics, molecular epidemiology, and the evolution of antibiotic resistance and other genome-influenced traits.
 
 Explore my [research](research.qmd), [publications](<https://scholar.google.com/citations?hl=en&user=hG4WnBEAAAAJ&view_op=list_works>), [tools](software.qmd), and [CV](cv.qmd) to learn more.
 :::

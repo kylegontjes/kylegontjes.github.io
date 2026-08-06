@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BSc in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\n\nI conducted my PhD in Microbiology & Immunology at the University of Michigan Medical School. There, I worked with Dr. Evan Snitkin and Dr. Ebbing Lautenbach to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.\n\nCurrently, I am a postdoctoral research fellow in Dr. Snitkin’s laboratory, advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research on antibiotic resistance.\nIn the fall, I will start a research faculty appointment in the department!"
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BSc in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\n\nI conducted my PhD in Microbiology & Immunology at the University of Michigan Medical School. There, I worked with Dr. Evan Snitkin and Dr. Ebbing Lautenbach to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.\nAfter finishing my PhD, I joined the research faculty at the University of Michigan. I started as a Research Investigator in Dr. Snitkin’s laboratory in August, 2026. I am excited to spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research."
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "About me",
     "section": "",
-    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BSc in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\n\nI conducted my PhD in Microbiology & Immunology at the University of Michigan Medical School. There, I worked with Dr. Evan Snitkin and Dr. Ebbing Lautenbach to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.\n\nCurrently, I am a postdoctoral research fellow in Dr. Snitkin’s laboratory, advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research on antibiotic resistance.\nIn the fall, I will start a research faculty appointment in the department!"
+    "text": "A native of Grand Rapids, I graduated from Calvin University in 2017 with a BSc in Biology.\n\nI followed my passion for infection prevention to the University of Michigan School of Public Health, where I completed an MPH in Hospital & Molecular Epidemiology in 2020. There, I worked for Dr. Lona Mody, of the Division of Geriatric & Palliative Medicine, studying the infection prevention and epidemiology of antibiotic-resistant bacteria in hospitals and nursing homes. We continue to collaborate on projects, with particular interest in capturing young adult voices on public health and health education.\n\nI conducted my PhD in Microbiology & Immunology at the University of Michigan Medical School. There, I worked with Dr. Evan Snitkin and Dr. Ebbing Lautenbach to leverage clinical metadata and whole-genome sequencing to study the evolution and spread of multidrug-resistant organisms in hospital and community settings.\nAfter finishing my PhD, I joined the research faculty at the University of Michigan. I started as a Research Investigator in Dr. Snitkin’s laboratory in August, 2026. I am excited to spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research."
   },
   {
     "objectID": "about.html#research-interests",
@@ -39,14 +39,21 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Started my postdoctoral research fellowship appointment!\nGraduated with my PhD in Microbiolgy & Immunology!"
+    "text": "Started my Research Investigator appointment! Excited to join the faculty and build long-term roots at the University of Michigan.\nPaper 2 from the dissertation was accepted at J Infectious Diseases!\nGave an oral presentation at the Microbial Ecology and Evolution Hubs (MeeHubs) 2026 conference!"
+  },
+  {
+    "objectID": "news.html#august-2026",
+    "href": "news.html#august-2026",
+    "title": "News",
+    "section": "",
+    "text": "Started my Research Investigator appointment! Excited to join the faculty and build long-term roots at the University of Michigan.\nPaper 2 from the dissertation was accepted at J Infectious Diseases!\nGave an oral presentation at the Microbial Ecology and Evolution Hubs (MeeHubs) 2026 conference!"
   },
   {
     "objectID": "news.html#may-2026",
     "href": "news.html#may-2026",
     "title": "News",
-    "section": "",
-    "text": "Started my postdoctoral research fellowship appointment!\nGraduated with my PhD in Microbiolgy & Immunology!"
+    "section": "May 2026",
+    "text": "May 2026\n\nStarted my postdoctoral research fellowship appointment!\nGraduated with my PhD in Microbiolgy & Immunology!"
   },
   {
     "objectID": "news.html#march-2026",
@@ -200,7 +207,7 @@
     "href": "philosophy.html#career-station",
     "title": "Professional Philosophy",
     "section": "Career station",
-    "text": "Career station\nI plan to conduct high-impact, collaborative research at the University of Michigan, a leading academic medical center. The University of Michigan has leading clinical collaborators, advanced genomics cores, and innovative experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology research, while enabling investigation of clinical findings in model in vivo and in vitro systems."
+    "text": "Career station\nI conduct high-impact, collaborative research at the University of Michigan, a leading academic medical center. The University of Michigan has leading clinical collaborators, advanced genomics cores, and innovative experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology research, while enabling investigation of clinical findings in model in vivo and in vitro systems."
   },
   {
     "objectID": "philosophy.html#career-research-questions",
@@ -235,7 +242,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I’m Kyle Gontjes, a postdoctoral research fellow in the Department of Microbiology & Immunology at the University of Michigan Medical School.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.\nI conduct my research in the Snitkin Lab, where we focus on microbial genomics, molecular epidemiology, and bacterial evolution.\nExplore my research, publications, tools, and CV to learn more."
+    "text": "I’m Kyle Gontjes, a Research Investigator in the Department of Microbiology & Immunology at the University of Michigan Medical School.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing home, and household settings.\nI conduct my research in the Snitkin Lab, where we focus on microbial genomics, molecular epidemiology, and the evolution of antibiotic resistance and other genome-influenced traits.\nExplore my research, publications, tools, and CV to learn more."
   },
   {
     "objectID": "software.html",
