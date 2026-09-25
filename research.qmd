@@ -22,6 +22,7 @@ I leverage observational and intervention studies to evaluate the distribution a
 
 1.  Lapp Z, … **Gontjes K**, …, Evan Snitkin, Rachel B Slayton. Distinct Origins and Transmission Pathways of blaKPC Enterobacterales across Three U.S. States. *J Clin Microbiol*. 2023. [link](https://doi.org/10.1128/jcm.00259-23)
 2.  Zhang HL, **Gontjes K,** Han JH, Alby K, Lapp Z, Snitkin S, Goldstein EJC, Muldoon S, Tolomeo P, Lautenbach E. Resistance phenotypes of carbapenem-resistant Klebsiella pneumoniae in a multi-state network of long-term acute care hospitals. *Infect Control Hosp Epidemiol*. 2022. [link](https://doi.org/10.1017/ice.2022.185)
+3.  **Gontjes KJ**, ..., Evan Snitkin, Ebbing Lautenbach. Changing Molecular Epidemiology and Resistance Patterns of Carbapenem-Resistant Klebsiella pneumoniae in California Long-term Acute Care Hospitals. *Journal of Infectious Diseases.* 2026. [link](https://doi.org/10.1093/infdis/jiag406)
 
 # Translational infection prevention research
 

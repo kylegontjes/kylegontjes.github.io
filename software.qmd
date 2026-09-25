@@ -20,7 +20,7 @@ An R package that provides tools for phylogenetically informed analysis of antib
 
 Pipeline designed to automates running BLAST searches across many genomes, making gene identification accessible and reproducible. [Repository](#0)
 
-# ISScreener
+## ISScreener
 
 Workflow designed to detect insertion sequences (IS elements) from Illumina whole-genome sequencing data, helping characterize mobile genetic elements. [Repository](https://github.com/kylegontjes/ISScreener)
 

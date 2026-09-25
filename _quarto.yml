@@ -15,18 +15,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: news.qmd 
-        text: News
       - href: about.qmd 
         text: About
-      - href: cv.qmd
-        text: CV
-      - href: philosophy.qmd
-        text: Philosophy
       - href: research.qmd
         text: Research
       - href: software.qmd
         text: Software
+      - href: cv.qmd
+        text: CV
+      - href: news.qmd 
+        text: News
+      - href: philosophy.qmd
+        text: Philosophy
       - href: contact.qmd
         text: Contact
 

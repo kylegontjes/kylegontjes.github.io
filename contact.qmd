@@ -8,6 +8,8 @@ If you’d like to talk about projects, collaborations, or say hello, feel free 
 
 ## 📬 Ways to get in touch
 
--   ✉️ **Email:** kgontjes\@umich.edu
--   💻 **GitHub:** [github.com/kylegontjes](https://github.com/kylegontjes)
--   💼 **LinkedIn:** [linkedin.com/in/kyle-gontjes](https://linkedin.com/in/kyle-gontjes/)
+- ✉️ **Email:** [kgontjes\@umich.edu](mailto:kgontjes@umich.edu)
+
+- 💻 **GitHub:** [github.com/kylegontjes](https://github.com/kylegontjes)
+
+- 💼 **LinkedIn:** [linkedin.com/in/kyle-gontjes](https://linkedin.com/in/kyle-gontjes/)

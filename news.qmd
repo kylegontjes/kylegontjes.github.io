@@ -2,10 +2,14 @@
 title: "News"
 ---
 
+## September 2026
+
+- Gave a guest lecture at the University of Michigan's BIO 202 class on medical research: From sick patient to genome and back again: the science of genomic epidemiology research
+
 ## August 2026
 
 - Started my Research Investigator appointment! Excited to join the faculty and build long-term roots at the University of Michigan.
-- Paper 2 from the dissertation was accepted at *J Infectious Diseases*!
+- Paper 2 from the dissertation was accepted and put online at *J Infectious Diseases*! Changing molecular epidemiology of CRKP in California LTACHs. [link](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiag406/8754114)
 - Gave an oral presentation at the Microbial Ecology and Evolution Hubs (MeeHubs) 2026 conference!
 
 ## May 2026

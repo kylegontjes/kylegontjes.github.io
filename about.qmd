@@ -10,7 +10,7 @@ I followed my passion for infection prevention to the [University of Michigan Sc
 \
 I did my PhD in Microbiology & Immunology at the University of Michigan Medical School. I worked with [Dr. Evan Snitkin](https://medschool.umich.edu/profile/3206/evan-s-snitkin) and [Dr. Ebbing Lautenbach](https://www.med.upenn.edu/apps/faculty/index.php/g275/p10014) to leverage clinical metadata and whole-genome sequencing to study the emergence and spread of multidrug-resistant organisms in hospital and community settings.
 
-After finishing my PhD, I joined the research faculty at the University of Michigan. I started as a Research Investigator in Dr. Snitkin's laboratory in August, 2026. I am excited to build upon my dissertation research and spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research.
+After finishing my PhD, I joined the research faculty at the University of Michigan, starting as a Research Investigator in Dr. Snitkin's laboratory in August, 2026. I am excited to build upon my dissertation research and spend my career advancing our ability to perform high-impact, clinically-relevant molecular epidemiology research.
 
 ## Research interests
 
@@ -18,7 +18,7 @@ My career goal is to develop innovative solutions to combat antibiotic resistanc
 
 ::::: columns
 ::: {.column width="50%"}
-My interests:
+My research interests:
 
 1.  Evolution of antibiotic resistance
 
@@ -26,7 +26,7 @@ My interests:
 
 3.  Phylogenetics of bacterial genome-influenced traits
 
-4.  Epidemiologic trends of antibiotic-resistant organisms
+4.  Epidemiological trends of antibiotic-resistant organisms
 
 5.  Translational infection prevention research
 :::
@@ -49,7 +49,7 @@ Methods of interest:
 ## Skills
 
 1.  **Software:** Microsoft Office, Adobe Creative Suite, BioRender, DropBox, and Google Suites
-2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performance computing cluster)
+2.  **Programming:** R, Linux, SAS, Python, GitHub, Docker/Singularity, SLURM (high-performance computing cluster), pipeline and workflow development
 3.  **Molecular epidemiology:** Whole-genome sequencing, variant calling, gene identification, pangenomics, phylogenetics
 4.  **Statistical methods:** Ancestral state reconstruction, convergence-based genome-wide association studies, burden testing, regression modeling
 5.  **Wet lab experimentation:** Specimen collection, bacterial cultivation, identification, and susceptibility testing
