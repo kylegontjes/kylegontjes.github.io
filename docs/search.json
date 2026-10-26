@@ -39,14 +39,21 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Gave a guest lecture at the University of Michigan’s BIO 202 class on medical research: From sick patient to genome and back again: the science of genomic epidemiology research"
+    "text": "Last remaining PhD chapter was provisionally accepted at a good journal! Excited to push this work across the line."
+  },
+  {
+    "objectID": "news.html#october-2026",
+    "href": "news.html#october-2026",
+    "title": "News",
+    "section": "",
+    "text": "Last remaining PhD chapter was provisionally accepted at a good journal! Excited to push this work across the line."
   },
   {
     "objectID": "news.html#september-2026",
     "href": "news.html#september-2026",
     "title": "News",
-    "section": "",
-    "text": "Gave a guest lecture at the University of Michigan’s BIO 202 class on medical research: From sick patient to genome and back again: the science of genomic epidemiology research"
+    "section": "September 2026",
+    "text": "September 2026\n\nStarted the MICHR Building Up Career Development Program, a program for early-career researchers.\nGave a guest podcast at the University of Michigan’s ALA 295 class on how philosophy and history influences applied health research.\nGave a guest lecture at the University of Michigan’s BIO 202 class on medical research: From sick patient to genome and back again: the science of genomic epidemiology research"
   },
   {
     "objectID": "news.html#august-2026",
@@ -193,42 +200,35 @@
     "href": "philosophy.html",
     "title": "Professional Philosophy",
     "section": "",
-    "text": "This quote from Steven Garber, author of Visions of Vocation, continues to shape my research career. Although conducting research for the acquisition of knowledge is an admirable and enjoyable pursuit, I am motivated by this challenge to consider how my research shapes the clinic and public health."
+    "text": "This quote from Steven Garber, author of Visions of Vocation, continues to shape my research career. Although conducting research for the acquisition of knowledge is an admirable and enjoyable pursuit, I am motivated by the challenge to consider how my research shapes the clinic and public health."
   },
   {
     "objectID": "philosophy.html#what-will-you-do-with-what-you-know",
     "href": "philosophy.html#what-will-you-do-with-what-you-know",
     "title": "Professional Philosophy",
     "section": "",
-    "text": "This quote from Steven Garber, author of Visions of Vocation, continues to shape my research career. Although conducting research for the acquisition of knowledge is an admirable and enjoyable pursuit, I am motivated by this challenge to consider how my research shapes the clinic and public health."
+    "text": "This quote from Steven Garber, author of Visions of Vocation, continues to shape my research career. Although conducting research for the acquisition of knowledge is an admirable and enjoyable pursuit, I am motivated by the challenge to consider how my research shapes the clinic and public health."
   },
   {
     "objectID": "philosophy.html#career-problem",
     "href": "philosophy.html#career-problem",
     "title": "Professional Philosophy",
-    "section": "Career problem",
-    "text": "Career problem\nAntibiotic resistance threatens to erode decades of progress in treating bacterial infections. To combat this urgent threat, novel strategies are needed to advancing antibiotic development, steward our current antibiotics, and prevent the development and spread of antibiotic-resistant bacteria."
+    "section": "Career Problem",
+    "text": "Career Problem\nAntibiotic resistance threatens to erode decades of progress in treating bacterial infections. To combat this urgent threat, novel strategies are needed to advancing antibiotic development, steward our current antibiotics, and prevent the development and spread of antibiotic-resistant bacteria."
   },
   {
     "objectID": "philosophy.html#career-mission",
     "href": "philosophy.html#career-mission",
     "title": "Professional Philosophy",
-    "section": "Career mission",
-    "text": "Career mission\nMy career goal is to integrate microbial genomics, clinical epidemiological analyses, and wet lab experimentation to identify divers of the emergence and spread of resistant bacteria in vulnerable populations. Through this research, I hope to inform clinical and public health decision making and interventions."
+    "section": "Career Mission",
+    "text": "Career Mission\nMy career goal is to integrate microbial genomics, clinical epidemiological analyses, and wet lab experimentation to identify divers of the emergence and spread of resistant bacteria in vulnerable populations.\nI conduct high-impact, collaborative research at the University of Michigan, a leading academic medical center. The University of Michigan has leading clinical collaborators, advanced genomics cores, and innovative experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology research, while enabling investigation of clinical findings in model in vivo and in vitro systems.\nThrough this research, I hope to inform clinical and public health decision making and interventions."
   },
   {
-    "objectID": "philosophy.html#career-station",
-    "href": "philosophy.html#career-station",
+    "objectID": "philosophy.html#motivating-research-questions",
+    "href": "philosophy.html#motivating-research-questions",
     "title": "Professional Philosophy",
-    "section": "Career station",
-    "text": "Career station\nI conduct high-impact, collaborative research at the University of Michigan, a leading academic medical center. The University of Michigan has leading clinical collaborators, advanced genomics cores, and innovative experimental collaborators. Coalescing these collaborators will enable clinically-relevant molecular epidemiology research, while enabling investigation of clinical findings in model in vivo and in vitro systems."
-  },
-  {
-    "objectID": "philosophy.html#career-research-questions",
-    "href": "philosophy.html#career-research-questions",
-    "title": "Professional Philosophy",
-    "section": "Career research questions",
-    "text": "Career research questions\n\nWhat host and bacterial factors drive the emergence sof antibiotic resistance?\nWhat host, bacterial, and population-level factors facilitate the spread of antibiotic-resistant organisms?\nHow can genomic epidemiology studies be leveraged to strengthen drug discovery, antimicrobial stewardship, and infection prevention?"
+    "section": "Motivating Research Questions",
+    "text": "Motivating Research Questions\n\nWhat host and bacterial factors drive the emergence sof antibiotic resistance?\nWhat host, bacterial, and population-level factors facilitate the spread of antibiotic-resistant organisms?\nHow can genomic epidemiology studies be leveraged to strengthen drug discovery, antimicrobial stewardship, and infection prevention?"
   },
   {
     "objectID": "research.html",
@@ -256,7 +256,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I’m Kyle Gontjes, a research faculty member in the Department of Microbiology & Immunology at the University of Michigan Medical School.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing homes, and household settings.\nI am a Research Investigator in the Snitkin Lab, where we focus on microbial genomics, molecular epidemiology, and the evolution of antibiotic resistance and other genome-influenced traits.\nExplore my research, publications, tools, and CV to learn more."
+    "text": "I’m Kyle Gontjes, a research faculty member in the Department of Microbiology & Immunology at the University of Michigan Medical School.\nMy research integrates clinical metadata and whole-genome sequencing to investigate the evolution and transmission of multidrug-resistant organisms in complex populations, including those in long-term acute care hospitals, nursing homes, and community settings.\nI am a Research Investigator in the Snitkin Lab, where we focus on microbial genomics, molecular epidemiology, and the evolution of antibiotic resistance and other clinically important traits.\nExplore my research, publications, tools, and CV to learn more."
   },
   {
     "objectID": "software.html",
@@ -269,8 +269,8 @@
     "objectID": "software.html#phyloamr",
     "href": "software.html#phyloamr",
     "title": "Software",
-    "section": "PhyloAMR",
-    "text": "PhyloAMR\nAn R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses such as genotype-phenotype relationships and lineage tracking. Repository"
+    "section": "phyloAMR",
+    "text": "phyloAMR\nAn R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses such as genotype-phenotype relationships and lineage tracking. Repository"
   },
   {
     "objectID": "software.html#genescreener",
@@ -297,14 +297,14 @@
     "objectID": "software.html#phylokit",
     "href": "software.html#phylokit",
     "title": "Software",
-    "section": "Phylokit",
-    "text": "Phylokit\nA Snakemake pipeline to generate phylogenies from whole genome alignments, streamlining evolutionary analysis workflows. Repository"
+    "section": "phylokit",
+    "text": "phylokit\nA Snakemake pipeline to generate phylogenies from whole genome alignments, streamlining evolutionary analysis workflows. Repository"
   },
   {
     "objectID": "software.html#fastools",
     "href": "software.html#fastools",
     "title": "Software",
-    "section": "Fastools",
-    "text": "Fastools\nA growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. Repository"
+    "section": "fastools",
+    "text": "fastools\nA growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. Repository"
   }
 ]

@@ -10,28 +10,28 @@ If you would like to collaborate to develop tools to support your research, plea
 
 # R packages
 
-## PhyloAMR
+## *phyloAMR*
 
 An R package that provides tools for phylogenetically informed analysis of antibiotic resistance and other genome-associated traits, integrating evolutionary context into genomic analyses such as genotype-phenotype relationships and lineage tracking. [Repository](https://github.com/kylegontjes/phyloAMR)
 
 # Command line tools
 
-## GeneScreener
+## *GeneScreener*
 
 Pipeline designed to automates running BLAST searches across many genomes, making gene identification accessible and reproducible. [Repository](#0)
 
-## ISScreener
+## *ISScreener*
 
 Workflow designed to detect insertion sequences (IS elements) from Illumina whole-genome sequencing data, helping characterize mobile genetic elements. [Repository](https://github.com/kylegontjes/ISScreener)
 
-## **CoverageStats**
+## ***CoverageStats***
 
 Pipeline that calculates coverage statistics for short-read sequencing data by mapped to reference sequences. Useful for quality control and comparative analyses. [Repository](https://github.com/kylegontjes/CoverageStats)
 
-## Phylokit
+## *phylokit*
 
 A Snakemake pipeline to generate phylogenies from whole genome alignments, streamlining evolutionary analysis workflows. [Repository](https://github.com/Snitkin-Lab-Umich/phylokit)
 
-## Fastools
+## *fastools*
 
 A growing collection of handy scripts for manipulating FASTA files, simplifying common sequence processing tasks. [Repository](https://github.com/kylegontjes?tab=repositories)
